@@ -15,4 +15,4 @@ This repository contains the course work for the [MIT 6.S191 Introduction to Dee
     
 ## License
 
-Reference course material [license](https://github.com/aamini/introtodeeplearning/blob/master/LICENSE.md)
+Reference to original course repository [license](https://github.com/aamini/introtodeeplearning/blob/master/LICENSE.md)
