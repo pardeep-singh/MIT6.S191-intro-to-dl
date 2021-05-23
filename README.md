@@ -1,6 +1,6 @@
 ## MIT 6.S191 Introduction to Deep Learning
 
-This repository contains the lab work for the [MIT 6.S191 Introduction to Deep Learning 2021](http://introtodeeplearning.com/).
+This repository contains the course work for the [MIT 6.S191 Introduction to Deep Learning 2021](http://introtodeeplearning.com/).
 
 ## Table of Contents
 
@@ -15,4 +15,4 @@ This repository contains the lab work for the [MIT 6.S191 Introduction to Deep L
     
 ## License
 
-Refer to original course material [license](https://github.com/aamini/introtodeeplearning/blob/master/LICENSE.md)
+Reference course material [license](https://github.com/aamini/introtodeeplearning/blob/master/LICENSE.md)
